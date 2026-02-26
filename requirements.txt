@@ -9,3 +9,5 @@ pdfkit==1.0.0
 markdown==3.5.2
 streamlit
 pandas
+timeago
+plotly
