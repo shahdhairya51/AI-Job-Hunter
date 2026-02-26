@@ -188,12 +188,32 @@ async def main():
             db.update_application(job_id=res["job_id"], status=res["status"], notes=res["notes"])
         print("=" * 65)
 
-    elif args.skip_apply:
         print("\n[STEP 4] Skipped (--skip-apply). All resumes/CLs generated.")
         print("=" * 65)
         print("PREVIEW MODE COMPLETE")
         print("=" * 65)
 
+    # ── STEP 5: Auto-Sync to GitHub (for Live Dashboard) ──────────────────
+    print("\n[STEP 5] Auto-syncing database to GitHub...")
+    try:
+        # We use subprocess to run the git commands quietly
+        import subprocess
+        
+        # Add the database file
+        subprocess.run(["git", "add", "applications.db"], check=True, capture_output=True)
+        subprocess.run(["git", "add", "jobs_found.json"], check=False, capture_output=True)
+        
+        # Commit with a skip-ci message (optional, but good practice)
+        subprocess.run(["git", "commit", "-m", "Auto-update database [skip ci]"], check=False, capture_output=True)
+        
+        # Push to main
+        push_result = subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True, text=True)
+        
+        print("  ✓ Successfully pushed database to GitHub!")
+        print("  → Your Streamlit live dashboard will update automatically in a few seconds.")
+    except Exception as e:
+        print(f"  [WARNING] Failed to auto-sync to GitHub: {e}")
+        print("  Is your Git branch set up correctly with a remote origin?")
 
 if __name__ == "__main__":
     asyncio.run(main())
