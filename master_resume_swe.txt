@@ -1,0 +1,52 @@
+Dhairya Shah
+Arlington,VA | +1 5713977303 | shahdhairya.usa@gmail.com | linkedin.com/in/dhairya-shah-582b3a21b/ | github.com/shahdhairya51/
+
+EDUCATION
+The George Washington University, Washington DC Aug 2024 - May2026
+Masters of Science (M.S) in Computer Science CGPA: 4.0/4.0
+Coursework: Cloud Computing & Architecture, Advanced Algorithms & Data Structures, Object-Oriented Design, Database Management Systems, Machine Learning, Software Engineering
+
+University of Mumbai Jul 2020 - May2024
+Bachelor of Technology in Information Technology (Honors in AI & ML) CGPA: 3.9/4.0
+
+WORK EXPERIENCE
+Graduate Instructional Assistant (ML I & ML II) | George Washington University Jan 2025 – May 2025
+- Demonstrated ownership and deep technical knowledge by mentoring 100+ graduate students in implementing core machine learning algorithms (supervised learning, neural networks, ensemble methods) and writing production-quality Python code.
+- Delivered results for student projects by leading debugging and optimization sessions focused on improving model performance, mitigating overfitting, and ensuring efficient data pipeline design with NumPy, pandas, and scikit-learn.
+
+Software Development Engineer | Empyron Solutions Sep 2023 – July 2024
+- Demonstrated customer obsession and ownership by leading end-to-end resolution of critical deployment downtime for 7,000+ users. Architected and deployed event-driven microservices on AWS (Lambda, DynamoDB), ensuring zero downtime during peak traffic and restoring customer trust.
+- Improved customer experience by eliminating latency bottlenecks. Optimized state management and implemented Redis caching with intelligent TTL policies, reducing average API response time by 27% for a faster, more responsive application.
+- Architected scalable solutions by designing GraphQL APIs and RESTful services, containerizing applications with Docker, and orchestrating with Kubernetes for auto-scaling, enabling faster feature delivery in Agile sprints.
+
+Full Stack Developer | Totem Interactive Jan 2023 – Aug 2023
+- Delivered results by building and scaling a distributed web platform using Angular, Java (Spring Boot), and PostgreSQL, supporting seamless scaling for 5,000+ active users and improving system performance by 14%.
+- Drove operational excellence by integrating Grafana/Prometheus dashboards for real-time production monitoring. This enhanced visibility reduced Mean Time to Recovery (MTTR) by 25% during high-traffic incidents, ensuring high availability.
+- Improved code quality and velocity by automating CI/CD pipelines using Jenkins, Docker, and GitHub Actions.
+
+Frontend Developer Intern | University of Texas at Dallas Aug 2022 – Nov 2022
+- Developed full-stack ride-sharing app (React/Node.js/Socket.io) with real-time tracking for 250+ users.
+- Integrated Google Maps API & Firebase Auth, reducing average wait time by 20%.
+
+PROJECTS
+Geospatial Early Impact Assessment Framework for UNICEF | Winner at United Nations Tech over Hackathon June 2025
+- Engineered a data pipeline processing 3M+ points, enabling real-time disaster assessment for UN officials using LLMs.
+- Optimized PostgreSQL/PostGIS with advanced indexing, cutting query latency by 76% (12s to 2.8s) for rapid decision-making.
+- Owned full-stack development of a React.js dashboard for visualizing child vulnerability across 5 hazard types.
+
+WellNest | ReactJS, ExpressJS, NodeJS, OpenAI, Github API | Github | Winner at George Hacks 2025 March 2025
+- Leveraged OpenAI API to automate metadata generation for 100+ GitHub repos, solving open-source discoverability.
+- Applied ML (LLM parser) to Invent and Simplify, slashing manual documentation time from 30 min to 3 min.
+- Demonstrated end-to-end ownership by integrating GitHub REST API to automate PR submission.
+
+TECHNICAL SKILLS
+- Programming Languages: C++, Java, Python, JavaScript (React, Node.js), TypeScript
+- Cloud & Distributed Systems: AWS (Lambda, EC2, S3, DynamoDB, API Gateway, CloudWatch, CodePipeline), Microservices, Serverless Architectures, Docker, Kubernetes, CI/CD
+- Databases: PostgreSQL, MongoDB, Redis, DynamoDB, SQL/NoSQL, PostGIS
+- Developer Tools: Git, GitHub Actions, Jenkins, Grafana, Prometheus, SonarQube, OpenAI API
+- Specializations: Machine Learning, Distributed Systems, Database Systems, Data Engineering, Geospatial Analysis
+- Certifications: AWS Machine Learning Engineer Associate
+
+Leadership & Achievements
+- Winner, United Nations Tech Over Hackathon 2025, Winner, George Hacks 2025
+- 1st Runner Up, IIT Bombay Techfest 2023, INTECH 2022 & Top 20 Open Source Contributor in Winter of Code 2.0

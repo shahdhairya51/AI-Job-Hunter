@@ -1,0 +1,13 @@
+{
+    "name": "job-ai-agent",
+    "version": "1.0.0",
+    "description": "Job search automation and dashboard",
+    "main": "dashboard.py",
+    "scripts": {
+        "dev": "venv\\Scripts\\streamlit run dashboard.py",
+        "scrape": "venv\\Scripts\\python daily_runner.py",
+        "tailor": "venv\\Scripts\\python daily_runner.py --skip-apply"
+    },
+    "author": "",
+    "license": "ISC"
+}

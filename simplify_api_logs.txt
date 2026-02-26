@@ -1,0 +1,146 @@
+Match in URL: https://api.frigade.com/v1/public/flowStates
+ -> Keys: ['eligibleFlows', 'ineligibleFlows', 'ruleGraph', 'rules', 'collections']
+   -> List field 'eligibleFlows' has 16 items
+      Item keys: ['flowSlug', 'flowName', 'flowType', 'version', 'componentId', 'data', '$state']
+   -> List field 'ineligibleFlows' has 1 items
+----------------------------------------
+Match in URL: https://js-ha.simplify.jobs/collections/jobs/documents/search?q=&query_by=seasons&facet_by=seasons&max_facet_values=9999999&x-typesense-api-key=SWF1ODFZbzBkcVlVdnVwT2FqUE5EZ3JpSk5hVmdpUHg1SklXWEdGbHZVRT1POHJieyJleGNsdWRlX2ZpZWxkcyI6ImNvbXBhbnlfdXJsLGNhdGVnb3JpZXMsYWRkaXRpb25hbF9yZXF1aXJlbWVudHMsY291bnRyaWVzLGRlZ3JlZXMsZ2VvbG9jYXRpb25zLGluZHVzdHJpZXMsaXNfc2ltcGxlX2FwcGxpY2F0aW9uLGpvYl9saXN0cyxsZWFkZXJzaGlwX3R5cGUsc2VjdXJpdHlfY2xlYXJhbmNlLHNraWxscyx1cmwifQ%3D%3D
+ -> Keys: ['facet_counts', 'found', 'hits', 'out_of', 'page', 'request_params', 'search_cutoff', 'search_time_ms']
+   -> List field 'facet_counts' has 1 items
+      Item keys: ['counts', 'field_name', 'sampled', 'stats']
+   -> List field 'hits' has 10 items
+      Item keys: ['document', 'highlight', 'highlights', 'text_match', 'text_match_info']
+----------------------------------------
+Match in URL: https://js-ha.simplify.jobs/collections/jobs/documents/search?q=&query_by=title&per_page=1&x-typesense-api-key=SWF1ODFZbzBkcVlVdnVwT2FqUE5EZ3JpSk5hVmdpUHg1SklXWEdGbHZVRT1POHJieyJleGNsdWRlX2ZpZWxkcyI6ImNvbXBhbnlfdXJsLGNhdGVnb3JpZXMsYWRkaXRpb25hbF9yZXF1aXJlbWVudHMsY291bnRyaWVzLGRlZ3JlZXMsZ2VvbG9jYXRpb25zLGluZHVzdHJpZXMsaXNfc2ltcGxlX2FwcGxpY2F0aW9uLGpvYl9saXN0cyxsZWFkZXJzaGlwX3R5cGUsc2VjdXJpdHlfY2xlYXJhbmNlLHNraWxscyx1cmwifQ%3D%3D
+ -> Keys: ['facet_counts', 'found', 'hits', 'out_of', 'page', 'request_params', 'search_cutoff', 'search_time_ms']
+   -> List field 'hits' has 1 items
+      Item keys: ['document', 'highlight', 'highlights', 'text_match', 'text_match_info']
+----------------------------------------
+Match in URL: https://js-ha.simplify.jobs/collections/jobs/documents/search?q=&query_by=degrees&facet_by=degrees&max_facet_values=9999999&x-typesense-api-key=SWF1ODFZbzBkcVlVdnVwT2FqUE5EZ3JpSk5hVmdpUHg1SklXWEdGbHZVRT1POHJieyJleGNsdWRlX2ZpZWxkcyI6ImNvbXBhbnlfdXJsLGNhdGVnb3JpZXMsYWRkaXRpb25hbF9yZXF1aXJlbWVudHMsY291bnRyaWVzLGRlZ3JlZXMsZ2VvbG9jYXRpb25zLGluZHVzdHJpZXMsaXNfc2ltcGxlX2FwcGxpY2F0aW9uLGpvYl9saXN0cyxsZWFkZXJzaGlwX3R5cGUsc2VjdXJpdHlfY2xlYXJhbmNlLHNraWxscyx1cmwifQ%3D%3D
+ -> Keys: ['facet_counts', 'found', 'hits', 'out_of', 'page', 'request_params', 'search_cutoff', 'search_time_ms']
+   -> List field 'facet_counts' has 1 items
+      Item keys: ['counts', 'field_name', 'sampled', 'stats']
+   -> List field 'hits' has 10 items
+      Item keys: ['document', 'highlight', 'highlights', 'text_match', 'text_match_info']
+----------------------------------------
+Match in URL: https://js-ha.simplify.jobs/collections/jobs/documents/search?q=&query_by=functions&facet_by=functions&max_facet_values=9999999&x-typesense-api-key=SWF1ODFZbzBkcVlVdnVwT2FqUE5EZ3JpSk5hVmdpUHg1SklXWEdGbHZVRT1POHJieyJleGNsdWRlX2ZpZWxkcyI6ImNvbXBhbnlfdXJsLGNhdGVnb3JpZXMsYWRkaXRpb25hbF9yZXF1aXJlbWVudHMsY291bnRyaWVzLGRlZ3JlZXMsZ2VvbG9jYXRpb25zLGluZHVzdHJpZXMsaXNfc2ltcGxlX2FwcGxpY2F0aW9uLGpvYl9saXN0cyxsZWFkZXJzaGlwX3R5cGUsc2VjdXJpdHlfY2xlYXJhbmNlLHNraWxscyx1cmwifQ%3D%3D
+ -> Keys: ['facet_counts', 'found', 'hits', 'out_of', 'page', 'request_params', 'search_cutoff', 'search_time_ms']
+   -> List field 'facet_counts' has 1 items
+      Item keys: ['counts', 'field_name', 'sampled', 'stats']
+   -> List field 'hits' has 10 items
+      Item keys: ['document', 'highlight', 'highlights', 'text_match', 'text_match_info']
+----------------------------------------
+Match in URL: https://api.frigade.com/v1/public/flowStates
+ -> Keys: ['eligibleFlows', 'ineligibleFlows', 'ruleGraph', 'rules', 'collections']
+   -> List field 'eligibleFlows' has 16 items
+      Item keys: ['flowSlug', 'flowName', 'flowType', 'version', 'componentId', 'data', '$state']
+   -> List field 'ineligibleFlows' has 1 items
+----------------------------------------
+Match in URL: https://api.frigade.com/v1/public/flowStates
+ -> Keys: ['eligibleFlows', 'ineligibleFlows', 'ruleGraph', 'rules', 'collections']
+   -> List field 'eligibleFlows' has 16 items
+      Item keys: ['flowSlug', 'flowName', 'flowType', 'version', 'componentId', 'data', '$state']
+   -> List field 'ineligibleFlows' has 1 items
+----------------------------------------
+Match in URL: https://simplifyjobs.featurebase.app/api/v1/organization
+ -> Keys: ['name', 'displayName', 'color', 'migratedPostCategories', 'categories', 'trialExtendCount', 'widget', 'owner', 'whitelabel', 'language', 'settings', 'admins', 'subscriptionStatus', 'plan', 'setupSteps', 'trialEnded', 'roadmapStatuses', 'translatedTypography', 'allowedDomains', 'hasSavedViews', 'memberRoles', '_roadmapMigrationCompleted', 'restrictedLoginMethods', 'picture', 'postCategories', 'postTags', 'postStatuses', 'roadmaps', 'publicPortalMenu', 'changelogTags', 'changelogCategories', 'roles', 'customInputFields', 'members', 'createdAt', 'updatedAt', 'activeHelpCenter', 'enabledFeatures', 'trialEndDate', 'customDomain', 'subscriptionPeriod', 'officeHoursInterval', 'timeZoneName', '_segmentMigrationCompleted', 'showSupportMessengerFromModules', 'billing', 'apiVersion', 'outboundEmails', 'id', 'csrfToken']
+   -> List field 'categories' has 1 items
+   -> List field 'admins' has 1 items
+   -> List field 'roadmapStatuses' has 3 items
+   -> List field 'postCategories' has 3 items
+      Item keys: ['segmentIds', 'roles', 'hiddenFromRoles', 'customInputFields', 'category', 'icon', 'private', 'name', 'id']
+   -> List field 'postTags' has 9 items
+      Item keys: ['name', 'color', 'private', 'id']
+   -> List field 'postStatuses' has 7 items
+      Item keys: ['name', 'color', 'type', 'isDefault', 'id']
+   -> List field 'roadmaps' has 4 items
+      Item keys: ['name', 'description', 'slug', 'icon', 'baseFilter', 'visibleBy', 'items', '_id']
+   -> List field 'publicPortalMenu' has 3 items
+      Item keys: ['name', 'link', 'icon', '_id']
+   -> List field 'changelogTags' has 3 items
+   -> List field 'changelogCategories' has 3 items
+      Item keys: ['segmentIds', 'roles', 'name', 'color', 'id']
+   -> List field 'members' has 10 items
+      Item keys: ['userId', 'roleId', 'seats', '_id']
+----------------------------------------
+Match in URL: https://simplifyjobs.featurebase.app/api/v1/organization
+ -> Keys: ['name', 'displayName', 'color', 'migratedPostCategories', 'categories', 'trialExtendCount', 'widget', 'owner', 'whitelabel', 'language', 'settings', 'admins', 'subscriptionStatus', 'plan', 'setupSteps', 'trialEnded', 'roadmapStatuses', 'translatedTypography', 'allowedDomains', 'hasSavedViews', 'memberRoles', '_roadmapMigrationCompleted', 'restrictedLoginMethods', 'picture', 'postCategories', 'postTags', 'postStatuses', 'roadmaps', 'publicPortalMenu', 'changelogTags', 'changelogCategories', 'roles', 'customInputFields', 'members', 'createdAt', 'updatedAt', 'activeHelpCenter', 'enabledFeatures', 'trialEndDate', 'customDomain', 'subscriptionPeriod', 'officeHoursInterval', 'timeZoneName', '_segmentMigrationCompleted', 'showSupportMessengerFromModules', 'billing', 'apiVersion', 'outboundEmails', 'id', 'csrfToken']
+   -> List field 'categories' has 1 items
+   -> List field 'admins' has 1 items
+   -> List field 'roadmapStatuses' has 3 items
+   -> List field 'postCategories' has 3 items
+      Item keys: ['segmentIds', 'roles', 'hiddenFromRoles', 'customInputFields', 'category', 'icon', 'private', 'name', 'id']
+   -> List field 'postTags' has 9 items
+      Item keys: ['name', 'color', 'private', 'id']
+   -> List field 'postStatuses' has 7 items
+      Item keys: ['name', 'color', 'type', 'isDefault', 'id']
+   -> List field 'roadmaps' has 4 items
+      Item keys: ['name', 'description', 'slug', 'icon', 'baseFilter', 'visibleBy', 'items', '_id']
+   -> List field 'publicPortalMenu' has 3 items
+      Item keys: ['name', 'link', 'icon', '_id']
+   -> List field 'changelogTags' has 3 items
+   -> List field 'changelogCategories' has 3 items
+      Item keys: ['segmentIds', 'roles', 'name', 'color', 'id']
+   -> List field 'members' has 10 items
+      Item keys: ['userId', 'roleId', 'seats', '_id']
+----------------------------------------
+Match in URL: https://simplifyjobs.featurebase.app/api/v1/organization
+ -> Keys: ['name', 'displayName', 'color', 'migratedPostCategories', 'categories', 'trialExtendCount', 'widget', 'owner', 'whitelabel', 'language', 'settings', 'admins', 'subscriptionStatus', 'plan', 'setupSteps', 'trialEnded', 'roadmapStatuses', 'translatedTypography', 'allowedDomains', 'hasSavedViews', 'memberRoles', '_roadmapMigrationCompleted', 'restrictedLoginMethods', 'picture', 'postCategories', 'postTags', 'postStatuses', 'roadmaps', 'publicPortalMenu', 'changelogTags', 'changelogCategories', 'roles', 'customInputFields', 'members', 'createdAt', 'updatedAt', 'activeHelpCenter', 'enabledFeatures', 'trialEndDate', 'customDomain', 'subscriptionPeriod', 'officeHoursInterval', 'timeZoneName', '_segmentMigrationCompleted', 'showSupportMessengerFromModules', 'billing', 'apiVersion', 'outboundEmails', 'id', 'csrfToken']
+   -> List field 'categories' has 1 items
+   -> List field 'admins' has 1 items
+   -> List field 'roadmapStatuses' has 3 items
+   -> List field 'postCategories' has 3 items
+      Item keys: ['segmentIds', 'roles', 'hiddenFromRoles', 'customInputFields', 'category', 'icon', 'private', 'name', 'id']
+   -> List field 'postTags' has 9 items
+      Item keys: ['name', 'color', 'private', 'id']
+   -> List field 'postStatuses' has 7 items
+      Item keys: ['name', 'color', 'type', 'isDefault', 'id']
+   -> List field 'roadmaps' has 4 items
+      Item keys: ['name', 'description', 'slug', 'icon', 'baseFilter', 'visibleBy', 'items', '_id']
+   -> List field 'publicPortalMenu' has 3 items
+      Item keys: ['name', 'link', 'icon', '_id']
+   -> List field 'changelogTags' has 3 items
+   -> List field 'changelogCategories' has 3 items
+      Item keys: ['segmentIds', 'roles', 'name', 'color', 'id']
+   -> List field 'members' has 10 items
+      Item keys: ['userId', 'roleId', 'seats', '_id']
+----------------------------------------
+Match in URL: https://js-ha.simplify.jobs/multi_search?x-typesense-api-key=SWF1ODFZbzBkcVlVdnVwT2FqUE5EZ3JpSk5hVmdpUHg1SklXWEdGbHZVRT1POHJieyJleGNsdWRlX2ZpZWxkcyI6ImNvbXBhbnlfdXJsLGNhdGVnb3JpZXMsYWRkaXRpb25hbF9yZXF1aXJlbWVudHMsY291bnRyaWVzLGRlZ3JlZXMsZ2VvbG9jYXRpb25zLGluZHVzdHJpZXMsaXNfc2ltcGxlX2FwcGxpY2F0aW9uLGpvYl9saXN0cyxsZWFkZXJzaGlwX3R5cGUsc2VjdXJpdHlfY2xlYXJhbmNlLHNraWxscyx1cmwifQ%3D%3D
+ -> Keys: ['results']
+   -> List field 'results' has 5 items
+      Item keys: ['facet_counts', 'found', 'hits', 'out_of', 'page', 'request_params', 'search_cutoff', 'search_time_ms']
+----------------------------------------
+Match in URL: https://api.frigade.com/v1/public/flowStates
+ -> Keys: ['eligibleFlows', 'ineligibleFlows', 'ruleGraph', 'rules', 'collections']
+   -> List field 'eligibleFlows' has 16 items
+      Item keys: ['flowSlug', 'flowName', 'flowType', 'version', 'componentId', 'data', '$state']
+   -> List field 'ineligibleFlows' has 1 items
+----------------------------------------
+Match in URL: https://api.simplify.jobs/v2/job-posting/:id/f9b04367-d95e-4a80-af3b-3293c269e8ec/company
+ -> Keys: ['total_views', 'title', 'description', 'requirements', 'responsibilities', 'desirable', 'subtitles', 'id', 'job_id', 'ats', 'start_date', 'end_date', 'updated_date', 'tracked_obj', 'entry_level', 'junior', 'mid_level', 'senior', 'expert', 'active', 'visible', 'archive', 'degrees', 'currency_type', 'min_salary', 'max_salary', 'salary_period', 'additional_salary_info', 'additional_salary_info_v2', 'additional_requirements', 'sponsors_h1b', 'travel_requirements', 'lift_requirement', 'questions', 'locations', 'additional_location_info', 'job', 'skills', 'functions', 'other_locations', 'seasons', 'is_scout_job_posting', 'url']
+   -> List field 'requirements' has 5 items
+   -> List field 'responsibilities' has 7 items
+   -> List field 'desirable' has 5 items
+   -> List field 'subtitles' has 1 items
+   -> List field 'degrees' has 3 items
+   -> List field 'locations' has 1 items
+      Item keys: ['value', 'id', 'country']
+   -> List field 'skills' has 1 items
+      Item keys: ['name', 'description', 'id']
+   -> List field 'functions' has 2 items
+      Item keys: ['title', 'parent_function_id', 'category_id', 'id']
+----------------------------------------
+Match in URL: https://api.simplify.jobs/v2/job-posting/:id/f9b04367-d95e-4a80-af3b-3293c269e8ec/history
+ -> Keys: ['job_posting_id', 'tracked_obj', 'total_entries', 'entries', 'first_seen', 'last_updated']
+   -> List field 'entries' has 24 items
+      Item keys: ['event_type', 'timestamp', 'source', 'data', 'diff']
+----------------------------------------
+Match in URL: https://sabre.simplify.jobs/
+ -> Keys: ['ATS', 'Boards', 'ResumeScores', 'resumeScoreCategories', 'aboutTokens', 'changelogMessages', 'countryAbbreviationsToNames', 'countryNamesToAbbreviations', 'fieldCategories', 'fieldCategoryReadableNames', 'fieldDependencies', 'fieldNameAliases', 'firefoxReportWarningMessage', 'fullAIAutofillEnabled', 'hiddenTrackedInputLabels', 'ignoreErrors', 'excludedTrackedInputLabelPatterns', 'excludedTrackedInputTagNames', 'render', 'resumeScoreKeywords', 'stateAbbreviationsToNames', 'trackStoreState', 'tutorialCandidateResponse', 'tutorialUrls']
+   -> List field 'fieldCategories' has 9 items
+   -> List field 'hiddenTrackedInputLabels' has 3 items
+   -> List field 'excludedTrackedInputLabelPatterns' has 2 items
+   -> List field 'excludedTrackedInputTagNames' has 1 items
+   -> List field 'resumeScoreKeywords' has 1453 items
+   -> List field 'tutorialUrls' has 2 items
+----------------------------------------

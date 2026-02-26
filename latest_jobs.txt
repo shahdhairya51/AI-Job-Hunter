@@ -1,0 +1,44 @@
+Company: Myers and Stauffer LC
+URL: https://www.linkedin.com/jobs/view/4368844859/
+Title: Application Developer Intern - Frankfort, KY (Summer 2026)
+
+Company: Optum
+URL: https://www.linkedin.com/jobs/view/4377887765/
+Title: Software Engineer - Remote
+
+Company: BlackRock
+URL: https://www.linkedin.com/jobs/view/4361513530/
+Title: Associate, Salesforce Developer
+
+Company: RTX
+URL: https://www.linkedin.com/jobs/view/4368830686/
+Title: EW Embedded Software Engineer II
+
+Company: BeaconFire Inc.
+URL: https://www.linkedin.com/jobs/view/4373174177/
+Title: Embedded Software Engineer
+
+Company: BeaconFire Inc.
+URL: https://www.linkedin.com/jobs/view/4374827024/
+Title: Java Full-Stack Developer
+
+Company: National Laboratory of the Rockies
+URL: https://www.linkedin.com/jobs/view/4368856127/
+Title: Post-Undergraduate/Graduate (Summer) Software Engineering Intern for Grid Modeling Applications
+
+Company: Jobright.ai
+URL: https://www.linkedin.com/jobs/view/4376774420/
+Title: Machine Learning Engineer - Early Career
+
+Company: Kaiser Permanente
+URL: https://www.linkedin.com/jobs/view/4376786167/
+Title: Software Development Bachelor's Intern
+
+Company: BeaconFire Inc.
+URL: https://www.linkedin.com/jobs/view/4375230995/
+Title: Java Software Engineer
+
+Company: Avyaa Solutions LLC
+URL: https://www.linkedin.com/jobs/view/4375244175/
+Title: Junior Software Engineer
+

@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+.env
+
+# Custom configs
+credentials.json
+user_profile.json
+playwright_profile/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Test Files
+*_debug*.txt
+*_out*.txt
+*test*.py
+
+# Wait! We DO want applications.db and jobs_found.json so we don't ignore them.
+# The `resumes` directory is up to you. Usually it's better NOT to commit PDFs to git.
+resumes/
+
+# macOS
+.DS_Store

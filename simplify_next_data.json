@@ -1,0 +1,12 @@
+{
+  "props": {
+    "pageProps": {}
+  },
+  "page": "/jobs",
+  "query": {},
+  "buildId": "SHD_voUUiA_w64svorN94",
+  "nextExport": true,
+  "autoExport": true,
+  "isFallback": false,
+  "scriptLoader": []
+}

@@ -1,0 +1,51 @@
+Dhairya Shah
+Arlington,VA | +1 5713977303 | shahdhairya.usa@gmail.com | https://www.linkedin.com/in/dhairya-shah-582b3a21b/ | https://github.com/shahdhairya51/
+EDUCATION
+The George Washington University, Washington DC Aug 2024 - May2026
+Masters of Science in Computer Science CGPA: 4.0/4.0
+Teaching Assistant: DNSC 6314, 6315: Machine Learning I & II (Statistical modeling, regression analysis, predictive analytics)
+University of Mumbai Jul 2020 - May2024
+Bachelor of Technology in Information Technology (Honors in AI & ML) CGPA: 3.9/4.0
+WORK EXPERIENCE
+Empyron Solutions | Data Analyst Sep 2023 – July 2024
+Wrote complex SQL queries across 15+ tables to analyze user engagement patterns, identifying drop-off points that informed
+product changes reducing churn by 12%.
+Built interactive Tableau dashboards tracking daily active users, session duration, and feature adoption metrics for product and
+leadership teams.
+Conducted cohort analysis on 7,000+ users to measure retention trends; presented weekly insights to stakeholders driving
+prioritization decisions.
+Automated Excel-based reporting workflows using Python (Pandas), cutting manual reporting time from 4 hrs to 30 mins
+Collaborated with engineering to define event tracking schema, ensuring clean data capture for downstream analysis.
+Totem Interactive | Business Intelligence Analyst Jan 2023 – Aug 2023
+Designed and maintained Power BI dashboards monitoring platform KPIs including conversion rates, load times, and error
+rates for 5,000+ users.
+Performed A/B test analysis on UI changes using Python; identified winning variant that improved click-through rate by 8%.
+Built ETL pipelines using SQL and Python to consolidate data from 3 sources into centralized reporting layer, reducing data
+inconsistencies by 40%.
+Created Grafana dashboards for real-time system health monitoring; set up alerts that reduced incident detection time by 25%.
+Delivered monthly business reviews with visualizations summarizing trends, anomalies, and actionable recommendations.
+University of Texas at Dallas | Frontend Developer Intern Aug 2022 – Nov 2022
+Developed a real-time ride-sharing platform using React, Redux, Node.js, MongoDB, and Socket.io, enabling live tracking for
+250+ users.
+Integrated Google Maps API, geolocation services, and Firebase authentication to optimize driver-rider pairing, reducing wait
+times by 20%.
+PROJECTS
+Student Wellbeing Analytics Dashboard | GW Enrollment & Student Success | SQL, Python, Tableau Dec 2025
+Analyzed 3 years of GWU Fall Check-In Survey data (2022-2024) covering 5 colleges and 10K+ student responses.
+Built Tableau dashboard visualizing trends in academic engagement, mental health indicators, and resource utilization across
+demographics.
+Performed statistical analysis identifying correlations between workload perception and wellbeing scores; presented findings to
+Career Services leadership.
+Geospatial Disaster Impact Analysis for UNICEF | Winner at United Nations Tech over Hackathon June 2025
+Processed 3M+ geospatial data points using PostgreSQL/PostGIS; optimized queries with spatial indexing reducing runtime
+from 12s to 2.8s.
+Built Python-based risk scoring model analyzing 5 hazard types; created React dashboard for UN officials to filter and visualize
+vulnerability metrics across 64 districts.
+Delivered data-driven insights enabling faster resource allocation decisions during disaster response simulations.
+TECHNICAL SKILLS
+Analytics & Visualization: Tableau, Power BI, Looker, Excel (Pivot Tables, VLOOKUP, Advanced Formulas), Google Sheets
+Languages: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R, JavaScript
+Databases: PostgreSQL, MySQL, MongoDB, Redshift, BigQuery, Elasticsearch
+Statistical Analysis: Hypothesis Testing, A/B Testing, Regression Analysis, Cohort Analysis, Time Series
+Tools & Platforms: AWS (S3, Redshift), GCP (BigQuery), Airflow, Jupyter, Git, Jira, MATLAB
+Certifications: AWS Machine Learning Engineer Associate

@@ -1,0 +1,174 @@
+[
+  {
+    "company_id": "4dd5d7ff-d95f-4396-a059-c9a8616546bc",
+    "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/4dd5d7ff-d95f-4396-a059-c9a8616546bc/logo.png",
+    "company_name": "United Parcel Service (UPS)",
+    "currency_type": "USD",
+    "end_date": 1774915200,
+    "experience_level": [
+      "Entry Level/New Grad"
+    ],
+    "functions": [
+      "Operations & Logistics",
+      "Warehouse Operations"
+    ],
+    "funding_stage": "IPO",
+    "funding_total": 39820000.0,
+    "id": "fc441dad-2731-45a6-a112-447377ba726a",
+    "lift_requirement": 70,
+    "locations": [
+      "Limerick, Ireland"
+    ],
+    "majors": [],
+    "posting_id": "fc441dad-2731-45a6-a112-447377ba726a",
+    "seasons": [
+      "N/A"
+    ],
+    "shuffle_key": 68025,
+    "start_date": 1772035758,
+    "title": "Warehouse Operative",
+    "travel_requirements": "In Person",
+    "type": "Full-Time",
+    "updated_date": 1772035758,
+    "year_founded": 1907
+  },
+  {
+    "company_id": "4dd5d7ff-d95f-4396-a059-c9a8616546bc",
+    "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/4dd5d7ff-d95f-4396-a059-c9a8616546bc/logo.png",
+    "company_name": "United Parcel Service (UPS)",
+    "currency_type": "USD",
+    "end_date": 1774915200,
+    "experience_level": [
+      "Entry Level/New Grad"
+    ],
+    "functions": [
+      "Operations & Logistics",
+      "Warehouse Operations"
+    ],
+    "funding_stage": "IPO",
+    "funding_total": 39820000.0,
+    "id": "fc441dad-2731-45a6-a112-447377ba726a",
+    "lift_requirement": 70,
+    "locations": [
+      "Limerick, Ireland"
+    ],
+    "majors": [],
+    "posting_id": "fc441dad-2731-45a6-a112-447377ba726a",
+    "seasons": [
+      "N/A"
+    ],
+    "shuffle_key": 68025,
+    "start_date": 1772035758,
+    "title": "Warehouse Operative",
+    "travel_requirements": "In Person",
+    "type": "Full-Time",
+    "updated_date": 1772035758,
+    "year_founded": 1907
+  },
+  {
+    "company_id": "344812bb-6e8a-48c6-b700-390ee3ace25c",
+    "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/344812bb-6e8a-48c6-b700-390ee3ace25c/logo.png",
+    "company_name": "TJX",
+    "company_size": "10,001+",
+    "currency_type": "USD",
+    "end_date": 1774396800,
+    "experience_level": [
+      "Entry Level/New Grad"
+    ],
+    "functions": [
+      "Retail",
+      "Merchandising"
+    ],
+    "funding_stage": "IPO",
+    "id": "ebf38514-44f1-409b-8ebf-cff25ab0c099",
+    "locations": [
+      "Hudson, WI, USA"
+    ],
+    "majors": [],
+    "max_salary": 15.5,
+    "min_salary": 15.0,
+    "posting_id": "ebf38514-44f1-409b-8ebf-cff25ab0c099",
+    "salary_period": 1,
+    "seasons": [
+      "N/A"
+    ],
+    "shuffle_key": 403997,
+    "start_date": 1772035752,
+    "title": "Daytime Merchandiser",
+    "travel_requirements": "In Person",
+    "type": "Full-Time",
+    "updated_date": 1772035752,
+    "year_founded": 1987
+  },
+  {
+    "company_id": "3f9ff6a1-d09a-4946-aff7-715ab0337673",
+    "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/3f9ff6a1-d09a-4946-aff7-715ab0337673/logo.png",
+    "company_name": "Dollar Tree",
+    "company_size": "10,001+",
+    "currency_type": "USD",
+    "experience_level": [
+      "Mid Level"
+    ],
+    "functions": [
+      "Retail Store Management",
+      "Retail"
+    ],
+    "funding_stage": "IPO",
+    "funding_total": 370000000.0,
+    "id": "da86439a-6a74-4609-819a-9620f7435ed2",
+    "lift_requirement": 55,
+    "locations": [
+      "Roanoke Rapids, NC, USA"
+    ],
+    "majors": [],
+    "posting_id": "da86439a-6a74-4609-819a-9620f7435ed2",
+    "seasons": [
+      "N/A"
+    ],
+    "shuffle_key": 456038,
+    "start_date": 1772035749,
+    "title": "Assistant Manager 2",
+    "travel_requirements": "In Person",
+    "type": "Part-Time",
+    "updated_date": 1772035749,
+    "year_founded": 1986
+  },
+  {
+    "company_id": "238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/238c95d8-0d6e-4717-b28c-078b16d675d7/logo.png",
+    "company_name": "Northrop Grumman",
+    "company_size": "10,001+",
+    "currency_type": "USD",
+    "experience_level": [
+      "Expert or higher"
+    ],
+    "functions": [
+      "Legal",
+      "Legal & Compliance",
+      "Contract Management"
+    ],
+    "funding_stage": "IPO",
+    "funding_total": 8697600000.0,
+    "id": "d7a4d37b-81d2-429b-9447-f6a4bd02ff30",
+    "locations": [
+      "Huntsville, AL, USA"
+    ],
+    "majors": [
+      "Other/Not Listed"
+    ],
+    "max_salary": 168200.0,
+    "min_salary": 112200.0,
+    "posting_id": "d7a4d37b-81d2-429b-9447-f6a4bd02ff30",
+    "salary_period": 4,
+    "seasons": [
+      "N/A"
+    ],
+    "shuffle_key": 603347,
+    "start_date": 1772035756,
+    "title": "Contract Administrator - Level 4",
+    "travel_requirements": "In Person",
+    "type": "Full-Time",
+    "updated_date": 1772035756,
+    "year_founded": 1939
+  }
+]
